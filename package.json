@@ -1,0 +1,19 @@
+{
+  "name": "url-shortener-proxy-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chawit.O <chawit.ocr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --exec babel-node src/index.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/node": "^7.15.4",
+    "@babel/preset-env": "^7.15.6",
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
