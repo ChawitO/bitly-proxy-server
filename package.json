@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "Chawit.O",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "start": "node src/index.js",
     "start:dev": "nodemon --exec babel-node src/index.js"
