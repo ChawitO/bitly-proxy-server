@@ -1,8 +1,8 @@
 {
-  "name": "url-shortener-proxy-server",
+  "name": "bitly-proxy-server",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Chawit.O <chawit.ocr@gmail.com>",
+  "author": "Chawit.O",
   "license": "MIT",
   "scripts": {
     "start": "nodemon --exec babel-node src/index.js"
